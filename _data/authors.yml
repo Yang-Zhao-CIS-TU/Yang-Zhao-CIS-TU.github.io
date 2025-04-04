@@ -1,18 +1,18 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
+  name        : "Yang Zhao"
   uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  email       : "tur77155@temple.edu"
+  bio         : "Welcome! I'm **Yang Zhao**, a Ph.D. student in Computer and Information Science at Temple University, where I specialize in **AI for Science (AI4S)** with a particular focus on:
+
+- **Biomedical data imputation** (image, text, and video)
+- **Medical knowledge graph construction and completion**
+- **Uncertainty quantification** in deep learning using **topological and diffusion-based methods**
+
+My work bridges deep learning, topology, and medical AI, with applications across image super-resolution, dynamic graph modeling, and explainable diagnosis agents.
+"
   avatar      : "bio-photo-2.jpg"
   twitter     : "name"
   google_plus : "Name"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
